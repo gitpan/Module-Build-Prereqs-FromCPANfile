@@ -35,6 +35,7 @@
             "Module::Build" : "0.4004"
          },
          "requires" : {
+            "CPAN::Meta::Prereqs" : "2.132830",
             "Exporter" : "0",
             "Module::CPANfile" : "1.0000",
             "version" : "0.80"
@@ -56,5 +57,5 @@
          "web" : "https://github.com/debug-ito/Module-Build-Prereqs-FromCPANfile"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
